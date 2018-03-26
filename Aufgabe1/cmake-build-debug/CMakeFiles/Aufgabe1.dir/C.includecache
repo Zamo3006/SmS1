@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Budig/CLionProjects/Aufgabe1/main.c
+stdio.h
+-
+one.h
+/cygdrive/c/Users/Budig/CLionProjects/Aufgabe1/one.h
+
+/cygdrive/c/Users/Budig/CLionProjects/Aufgabe1/one.c
+
+/cygdrive/c/Users/Budig/CLionProjects/Aufgabe1/one.h
+
